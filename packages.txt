@@ -1,0 +1,65 @@
+# AMD (Aman)
+linux-firmware
+amd64-microcode
+firmware-amd-graphics
+mesa-vulkan-drivers
+mesa-vulkan-drivers:i386
+mesa-utils
+tlp
+tlp-rdw
+thermald
+power-profiles-daemon
+lm-sensors
+radeontop
+nvtop
+rocm-opencl-runtime
+rocm-opencl-dev
+powertop
+linux-tools-common
+linux-tools-generic
+
+# Paket Dasar
+git
+curl
+wget
+vim
+net-tools
+build-essential
+gnome-tweaks
+gnome-shell-extensions
+htop
+
+# Aplikasi Umum (tanpa Snap/Flatpak)
+vlc
+gparted
+filezilla
+simple-scan
+fonts-firacode
+gnome-sushi
+baobab
+gdebi
+p7zip-full
+unrar
+
+# Development
+python3
+python3-pip
+nodejs
+npm
+openjdk-17-jdk
+docker.io
+docker-compose
+make
+cmake
+
+# Utilities
+stacer
+timeshift
+gnome-disk-utility
+rsync
+
+# Keamanan
+ufw
+fail2ban
+clamav
+clamav-daemon
